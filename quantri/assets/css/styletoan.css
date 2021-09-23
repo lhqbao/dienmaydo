@@ -1,0 +1,44 @@
+*{
+	padding: 0;
+}
+.navbar-default .brand{
+	padding-bottom: 0px;
+	padding-top: 17px;
+	font-size: 30px;
+}
+.navbar-default .brand a{
+	color: #2b333ed9;
+}
+.main .main-content .container-fluid .container .form-horizontal {
+	width: 70%;
+}
+.sidebar .nav > li > a:focus, .sidebar .nav > li > a:hover, .sidebar .nav > li > a:visited{
+	background-color: #252c35;
+	border-left-color: #00AAFF;
+}
+.Profile .Info{
+	width: 90% !important;
+}
+.navbar .brand{
+	padding: 10px 30px;
+	margin: 0;
+}
+.logo img{
+	width: 200px;
+}
+.Title{
+	margin-bottom: 50px;
+}
+.btnImport{
+	margin: 20px 35%;
+	width: 150px;
+	height: 40px;
+	background: #00AAFF;
+	color: white;
+	border: none;
+	border-radius: 2em;
+	font-size: 20px;
+}
+.btnExport{
+	margin-left: 20px;
+}
